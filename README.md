@@ -3,7 +3,7 @@
 
 You are provided with historical sales data for 1,115 Rossmann stores. Your task is to build a Streamlit web application that forecasts the Sales column in the test data. The app should load a trained machine learning model and allow users to explore and interact with the predictions through a simple, usable interface.
 
-Note: ⚠️ This is not just a model-building exercise. You are expected to build and deploy a working Streamlit app that demonstrates your full-stack skills in data science and application delivery.
+Note: ⚠️ This is not just a model-building exercise. You are expected to build and deploy a working Streamlit app that demonstrates your skills in data science and application delivery.
 
 ### Dataset Files
 You will use the following CSV files:
